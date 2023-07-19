@@ -17,7 +17,7 @@ Asker is a KDE Plasma widget that allows you to interact with a chatbot and ask 
 
 To use this widget, you need to have KDE Plasma installed on your system. Follow these steps to install the widget:
 
-1. Download the latest release of the widget from the [Releases](https://github.com/yourusername/Asker/releases) page.
+1. Download the latest release of the widget from the [Releases](https://github.com/Harshjeet/asker/releases/tag/Asker) page.
 2. Extract the downloaded zip file.
 3. Copy the extracted folder `org.kde.plasma.asker` to the Plasma widgets directory:
 

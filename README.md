@@ -1,5 +1,3 @@
-Sure! Here's a sample README file for your GitHub repository:
-
 # Asker - KDE Plasma Widget
 
 ![Asker](/path/to/your/widget/icon.png)

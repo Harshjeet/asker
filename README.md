@@ -1,6 +1,6 @@
 # Asker - KDE Plasma Widget
 
-[Asker](https://www.linkedin.com/posts/activity-7086805047765794816-033Y?utm_source=share&utm_medium=member_desktop)
+[Asker](https://www.linkedin.com/posts/activity-7086805047765794816-033Y?utm_source=share&utm_medium=member_desktop) *show video demo*
 
 ## Description
 

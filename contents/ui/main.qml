@@ -113,16 +113,16 @@ Item {
     function welcomeText(){
         var currentTime = new Date().getHours()
         if (currentTime >= 4 && currentTime < 12) {
-            introText = i18n("Hi Harsh...Good Morning.")
+            introText = i18n("Hi ...Good Morning.")
         }
         else if (currentTime >= 12 && currentTime < 17) {
-            introText = i18n("Hi Harsh...Good afternoon.")
+            introText = i18n("Hi ...Good afternoon.")
         } 
         else if (currentTime >= 17 && currentTime < 22){
-            introText = i18n("Hi Harsh...Good evening.")
+            introText = i18n("Hi ...Good evening.")
         }
         else {
-            introText = i18n("Hi Harsh... Good Night.          Sleep well")
+            introText = i18n("Hi ... Good Night.          Sleep well")
         }
     }
 
@@ -196,7 +196,7 @@ Item {
 
                 Layout.fillWidth: true
                 Layout.fillHeight: true
-                placeholderText: i18n("Harsh...what do you want to know?")
+                placeholderText: i18n("what do you want to know?...")
                 Keys.onReturnPressed: {
                     if (event.modifiers & Qt.ControlModifier) {
                         request(messageField, listModel, scrollView, messageField.text);

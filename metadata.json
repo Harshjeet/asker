@@ -1,0 +1,28 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "harshjeetkumar0@gmail.com",
+                "Name": "Harshjeet kumar"
+
+            }
+        ],
+        "Category": "Utilities",
+        "Description": "Ask anything ",
+
+        "EnabledByDefault": true,
+        "Icon": "dialog-messages",
+        "Id": "org.kde.plasma.asker",
+        "License": "LGPL-2.1+",
+        "Name": "Asker",
+        "Name[en_GB]": "Asker",
+
+        "ServiceTypes": [
+            "Plasma/Applet"
+        ],
+        "Version": "1.0",
+        "Website": "https://plasma.kde.org/"
+    },
+    "X-Plasma-API": "declarativeappletscript",
+    "X-Plasma-MainScript": "ui/main.qml"
+}
